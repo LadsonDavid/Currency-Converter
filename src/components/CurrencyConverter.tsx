@@ -14,6 +14,7 @@ const currencyOptions = [
   { value: 'GBP', label: 'GBP - British Pound' },
   { value: 'JPY', label: 'JPY - Japanese Yen' },
   { value: 'CAD', label: 'CAD - Canadian Dollar' },
+  { value: 'INR', label: 'INR - Indian Rupee' },
 ];
 
 const localStorageKey = 'swiftConvertFavorites';
